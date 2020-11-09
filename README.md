@@ -1,1 +1,1 @@
-# template-simulator
+# simulator-template
